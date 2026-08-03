@@ -162,3 +162,4 @@ visualize_patterns_line(party_wear_result, "Party Wear")
 
 
 ### Result:
+Thus, the GSP (Generalized Sequential Pattern) algorithm was successfully implemented in Python, and the frequent sequential patterns were identified and visualized successfully.
